@@ -4,7 +4,3 @@
 
 - <b>Data Structures</b>
   - [Praciting Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<h2> 🤳 Connect with me:</h2>
-
-[tiktok]: https://tiktok.com/JustJT
