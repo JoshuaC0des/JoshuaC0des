@@ -3,4 +3,4 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures</b>
-  - [Praciting Python](https://github.com/JoshuaC0des/Python)
+  - [Python Projects](https://github.com/JoshuaC0des/Python)
